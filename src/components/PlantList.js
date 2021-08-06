@@ -18,7 +18,8 @@ export default class PlantList extends Component {
       .catch((err) =>{
         console.log(err)
       });
-  }
+    }
+    
 
   /*********  DON'T CHANGE ANYTHING IN THE RENDER FUNCTION *********/
   render() {
